@@ -1,0 +1,129 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Hastur 88W Box Mod by Cthulhu",
+      "image": "https://bizweb.dktcdn.net/100/064/369/products/hastur-88w-box-mod-by-cthulhu-black.jpg?v=1594715116837",
+      "price": "2.000.000",
+      "cate_id": "2",
+      "detail": "Hastur 88W Box Mod đến từ nhà Cthulhu Mod "
+    },
+    {
+      "name": "Hannya Nano Pod Kit by Vapelustion",
+      "undefined": "data:image/jpeg;base64,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",
+      "price": "790.000",
+      "image": "https://bizweb.dktcdn.net/100/064/369/products/hannya-nano-pod-kit-by-vapelustion.jpg?v=1577948623247https://bizweb.dktcdn.net/100/064/369/products/hannya-nano-pod-kit-by-vapelustion.jpg?v=1577948623247https://bizweb.dktcdn.net/100/064/369/products/hannya-nano-pod-kit-by-vapelustion.jpg?v=1577948623247",
+      "id": 4,
+      "cate_id": "2",
+      "detail": "Hannya Nano Pod Kit là set pod kit mới nhất của nhà Vapelustion"
+    },
+    {
+      "name": "Series-B DNA 75w by Jac Vapour",
+      "undefined": "https://bizweb.dktcdn.net/100/064/369/products/series-b-dna-75w-by-jac-vapour.jpg?v=1577953864013",
+      "price": "2.000.000",
+      "detail": "Series B DNA 75W được thiết kế theo tiêu chuẩn tốt",
+      "image": "https://bizweb.dktcdn.net/100/064/369/products/series-b-dna-75w-by-jac-vapour.jpg?v=1577953864013",
+      "id": 5
+    },
+    {
+      "name": "Narada Pro Pod Mod by Augvape",
+      "undefined": "https://bizweb.dktcdn.net/100/064/369/products/narada-pro-pod-mod-by-augvape-black-carbon-fiber.jpg?v=1592362376707",
+      "price": "800.000",
+      "detail": "Narada Pro Pod là phiên bản nâng cấp mới",
+      "image": "https://bizweb.dktcdn.net/100/064/369/products/narada-pro-pod-mod-by-augvape-black-carbon-fiber.jpg?v=1592362376707",
+      "id": 6
+    },
+    {
+      "name": "Origin AIO Kit by OXVA",
+      "undefined": "https://bizweb.dktcdn.net/100/064/369/products/origin-aio-pod-system-kit-by-oxva-black-carbon-fiber.jpg?v=1590032282357",
+      "price": "1.000.000",
+      "detail": "Origin AIO của nhà OXVA được đánh giá l",
+      "image": "https://bizweb.dktcdn.net/100/064/369/products/origin-aio-pod-system-kit-by-oxva-black-carbon-fiber.jpg?v=1590032282357",
+      "id": 7
+    },
+    {
+      "name": "Medo Disposable Pod by Medo",
+      "undefined": "https://bizweb.dktcdn.net/100/064/369/products/medo-disposable-pod-by-medo-super-mint.jpg?v=1585712039543",
+      "cate_id": "2",
+      "price": "120.000",
+      "detail": "Medo Dispoable là bộ pod dùng một lần",
+      "image": "https://bizweb.dktcdn.net/100/064/369/products/medo-disposable-pod-by-medo-super-mint.jpg?v=1585712039543",
+      "id": 8
+    },
+    {
+      "name": "Strawberry Salts Nic by Solace (15ml)(Dâu tây)",
+      "undefined": "https://bizweb.dktcdn.net/100/064/369/products/strawberry-salts-nic-by-solace-15ml-dau-tay.jpg?v=1596251237957",
+      "price": "190.000",
+      "detail": "Strawberry đến từ Solace là hương vị trái cây thơm ngọt đầy hấp dẫn.",
+      "image": "https://bizweb.dktcdn.net/100/064/369/products/strawberry-salts-nic-by-solace-15ml-dau-tay.jpg?v=1596251237957",
+      "id": 9
+    },
+    {
+      "name": "Intelligent Wooden Shirt 123",
+      "undefined": "https://bizweb.dktcdn.net/100/064/369/products/mint-salts-nic-by-solace-15ml-bac-ha.jpg?v=1596250640947",
+      "cate_id": "4",
+      "price": "2.000.000",
+      "detail": "Hastur 88W Box Mod đến từ nhà Cthulhu Mod có thiết kế đơn giản và thanh lịch, được làm từ chất liệu SS304 chuẩn thực phẩm và hợp kim nhôm siêu nhẹ. Thiết bị này có công suất tối đa là 88W và chạy bằng 1 pin 18650.",
+      "image": "https://bizweb.dktcdn.net/100/064/369/products/mint-salts-nic-by-solace-15ml-bac-ha.jpg?v=1596250640947",
+      "id": 10
+    }
+  ],
+  "cate": [
+    {
+      "id": 2,
+      "name": "Pod 4"
+    },
+    {
+      "name": "Pod 1",
+      "id": 3
+    },
+    {
+      "name": "Pod mod 2",
+      "id": 4
+    }
+  ],
+  "post": [
+    {
+      "id": 1,
+      "title": "VÌ SAO BẠN CẦN TÁI CHẾ PIN? hả 123",
+      "short_desc": " Để tận dụng triệt để tài nguyên từ pin",
+      "content": "Để tận dụng triệt để tài nguyên từ pin",
+      "image": "https://bizweb.dktcdn.net/100/064/369/products/hannya-nano-pod-kit-by-vapelustion.jpg?v=1577948623247https://bizweb.dktcdn.net/100/064/369/products/hannya-nano-pod-kit-by-vapelustion.jpg?v=1577948623247https://bizweb.dktcdn.net/100/064/369/products/hannya-nano-pod-kit-by-vapelustion.jpg?v=1577948623247"
+    },
+    {
+      "title": "VÌ SAO BẠN CẦN TÁI CHẾ PIN?",
+      "short_desc": "Đồ điện tử sử dụng pin là một trong những món không thể thiếu trong sinh hoạt của những gia đình hiện đại",
+      "content": "Chỉ bằng việc tái chế những viên pin đã qua sử dụng, bạn đã đóng góp một phần vào công cuộc giảm thiểu rác thải độc hại. Hãy nhớ luôn chọn mua loại pin có thể tái sử dụng và tái chế được nhé.  Để tận dụng triệt để tài nguyên từ pin  Pin được tạo nên từ các kim loại như chì, thủy ngân, kẽm, mangan, nickel,… Đây đều là những nguyên không thể tái tạo, có thể được tái chế vô số lần và có giá trị kinh tế thiết thực.  Chỉ bằng việc tái chế pin đã qua sử dụng, bạn đã có thể hiểu và tận dụng được hết các vật liệu có trong mỗi viên pin.  Để loại bỏ những viên pin có thể gây cháy nổ",
+      "image": "https://bizweb.dktcdn.net/100/064/369/files/sf28187.jpg?v=1596705667669",
+      "id": 2
+    },
+    {
+      "title": "VAPE VÀ HÀNG KHÔNG: NHỮNG ĐIỀU BẠN CẦN BIẾT ĐỂ CÓ MỘT CHUYẾN BAY HOÀN HẢO CÙNG VAPE.",
+      "short_desc": "Câu hỏi đầu tiên: Bạn có thể mang vape lên máy bay không?",
+      "content": "Có thể, nhưng bạn cần lưu ý những điều sau đây để tránh những rủi ro đáng tiếc.  Thứ nhất, pin lithium phải được tháo khỏi thiết bị, để trong hộp đựng riêng và nằm trong hành lý mang theo lên máy bay.  Thứ hai, tất cả thiết bị vape như thuốc lá điện tử, vape pen và vape mod phải được xếp trong túi đựng riêng và mang theo bên mình. Bạn nên làm theo điều này nếu không muốn thiết bị của mình bị tịch thu khi kiểm duyệt hành lý xách tay.  Thứ ba, tinh dầu phải được đóng thật chặt, cất trong túi đựng riêng để trong hành lý mang theo. Không nên để tinh dầu ở hành lý ký gửi.  Những lời khuyên trong bài viết này được dựa trên luật quản lý của Tổ chức an ninh vận chuyển Hoa Kỳ nhưng có thể áp dụng trên hầu hết các nước. Tuy nhiên, bạn vẫn nên tìm hiểu luật bay riêng của từng hãng trước khi đặt vé. Nếu chuyến bay này dành cho một tour du lịch hoặc công tác nước ngoài, thì bạn nên tìm hiểu thêm về luật quản lý vape hiện tại của nước đó để tránh phiền phức không cần thiết (chẳng may vào phải nước cấm vape thì bạn có nguy cơ phải chịu phí phạt rất cao).  Câu hỏi thứ hai: Đóng gói tinh dầu, thiết bị và pin thế nào?  Đi đường hàng không với vaper thì khá đơn giản. Bạn được phép mang thiết bị vape cùng những vật dụng phụ kiện khác lên máy bay với điều kiện không sử dụng (đã có trường hợp sử dụng vape trên máy bay và bị phạt nặng). Về cơ bản, bạn sẽ không gặp vấn đề gì lớn nếu làm theo quy định và thủ tục của hãng bay.  Vì an toàn cháy nổ trong khoang hành lý, tất cả thiết bị điện tử và pin lithium phải được để trong hành lý mang theo. Đây là luật được áp dụng trên toàn thế giới, không có ngoại lệ. Nếu bạn để quên thiết bị và pin trong hành lý ký gửi thì sẽ có nguy cơ bị tịch thu trong quá trình kiểm tra hoặc bị bỏ lại ở sân bay.  Những mẹo để bay với thiết bị:  Cất pin dự phòng trong hộp đựng riêng để tránh tai nạn.  Nếu thiết bị của bạn sử dụng pin rời thì đừng quên mang sạc.  Nếu chuyến đi của bạn ngắn, thì nên chọ những thiết bị nhẹ nhàng như pod mod hoặc pod dùng 1 lần.  Áp lực trong khoang có thể khiến đầu đốt bị leak. Bạn chỉ nên châm vơi vơi hoặc để rỗng.  Những điều cần lưu ý khi vi vu cùng tinh dầu vape  Tất cả chất lỏng, khí, kem mang lên máy bay phải được để trong bình dưới 100ml và được để gọn trong 1 túi riêng. Những thứ này bao gồm kem đánh răng, dầu gội, sáp bôi tóc, son môi, bình xịt và tinh dầu.  Nếu bạn mang nhiều tinh dầu hơn quy định thì sẽ phải để lại trong hành lý ký gửi. Nếu buộc phải như vậy, bạn hãy gói các chai tinh dầu trong 2 lớp túi để tránh nhận được 1 vali dính đầy tinh dầu sau khi hạ cánh nhé.  Mẹo để bay cùng tinh dầu vape:  Áp lực khoang có thể khiến bình đầy nở ra hoặc bị nứt. Nên hãy tránh đổ đầy chặt bình tinh dầu chiết mang theo (nếu là chai nguyên, hãy chọn chai vẫn còn khoảng trống ở trên đầu).  Cân nhắc chọn tinh dầu có mức nicotine cao hơn loại bạn thường dùng một chút, như vậy sẽ không phải mang nhiều.  Các nước EU có giới hạn 20mg/ml với nicotine. Nếu bạn quen dùng tinh dầu ở mức cao hơn thì hãy mang tinh dầu của mình đi.  Bạn có được phép vape ở sân bay hoặc trên máy bay không?  Câu trả lời là không. Trường hợp ngoại lệ chỉ xảy ra nếu sân bay của bạn có khu vực hút thuốc, và vape trên máy bay thì bị cấm hoàn toàn.  Nếu bạn muốn thử mạo hiểm, thì hãy sẵn sàng việc bị phạt hoặc bị đuổi khỏi sân bay và lỡ chuyến. Khi bạn lên máy bay, thì nguy cơ này càng cao hơn. Bạn có thể mang một chiếc vape pod lên máy bay, nhưng nếu sử dụng thì bạn sẽ phải đối mặt với một phí phạt hoặc hình phạt tù không nhỏ khi máy bay hạ cánh.  Nếu bạn quá vã nicotine thì sao? Hãy tạm thời sử dụng những liệu pháp thay thế như miếng dán, kẹo cao su nicotine,… Có thể chúng không hấp dẫn bằng vape, nhưng sẽ không khiến bạn gặp rắc rối với bảo an sân bay.  Lời kết  Những năm này, vaper cũng đã trở thành một phần được chấp nhận trong văn hóa du lịch. Phương tiện của vaper không chỉ có máy bay mà còn có những phương thức khác tự do thoải mái hơn như xe máy, xe hơi cá nhân. Và dù chọn phương tiện nào, bạn cũng nên có chuẩn bị nhất định để luôn có một chuyến đi hoàn hảo.  Nếu bạn đã chọn đường hàng không cho chuyến du lịch của mình, thì hãy có tìm hiểu nhất định về quy định bay hiện hành để có một chuyến đi thoải mái không chỉ bạn, mà còn với những hành khách khác trên chuyến bay. Bạn biết mà, chỉ với những cử chỉ văn minh, thì người ngoài sẽ có cái nhìn thiện cảm hơn rất nhiều với vaper.",
+      "image": "https://bizweb.dktcdn.net/100/064/369/files/vape-va-hang-khong-nhung-dieu-ban-can-biet-de-co-mot-chuyen-bay-hoan-hao-cung-vape.jpg?v=1595479518031",
+      "id": 3
+    },
+    {
+      "title": "LỘ DIỆN CÔNG TY VAPE GIÀU NHẤT THẾ GIỚI: SMOORE",
+      "short_desc": "Gã khổng lồ trong làng sản xuất vape Trung Quốc",
+      "content": "Gã khổng lồ trong làng sản xuất vape Trung Quốc vừa trở thành công ty cổ phần trên thị trường chứng khoán Hồng Kông vào tuần trước, ra mắt đợt chào bán công khai lớn nhất năm nay. IPO đã huy động được hơn 900 triệu đô la từ các nhà đầu tư trước khi cổ phiếu bắt đầu giao dịch công khai vào thứ sáu.\n\nGiá cổ phiếu ban đầu là 12.40HKD (khoảng 1.61 đô la) đã tăng vọt lên đến 31HKD chỉ trong ngày đầu giao dịch, và hoàn thành giao dịch vào thứ hai ở mức 29HKD. Giá trị hiện tại ở Smoore đã đạt gần 22 triệu đô la Mỹ.\n\nÍt ai biết rằng Tập đoàn quốc tế Smoore chính là chủ sở hữu của các nhãn hàng vape nổi tiếng được ưa chuộng như Vaporesso, CCELL, FEELM, Revenant và Renova. Tập đoàn cũng nhận rất nhiều sản phẩm theo hợp đồng, rất nhiều sản phẩm từ các nhãn hàng nổi tiếng đều sử dụng công nghệ từ Smoore.\n\nSmoore là một trong những công ty vape Trung Quốc lâu đời nhất. Hãng được thành lập vào năm 2006 bởi doanh nhân 30 tuổi Chen Zhiping, hiện tại ông sở hữu 1/3 cổ phần công ty và là CEO cũng như chủ tịch tập đoàn. Theo Forbes, Zhiping và  giám đốc điều hành Xiong Shaoming vừa trở thành triệu phú với IPO.\n\nTrong những năm gần đây, tập đoàn tập trung vào nghiên cứu và phát triển công nghệ cho đầu đốt, phát triển dạng coil ceramic, sử dụng cho cả thiết bị hút cannabis CCELL và FEELM pod. Smoore cho biết họ sở hữu hơn 600 nhân viên R&D và hơn 1500 bằng sáng chế.\n\nTheo các chuyên gia tư vấn độc lập Frost & Sullivan, thì Smoore chiến 16.5% doanh số tổng các thiết bị vape được bán ra năm ngoái. Tốc độc tăng trưởng hằng năm của tập đoàn này đã vượt 100% trong ba năm qua.\n\nVới doanh số chiếm phần trên mọi thị trường vape và sản phẩm đa dạng, Smoore đã vượt qua JUUL trở thành tập đoàn vape lớn nhất thế giới.",
+      "image": "https://bizweb.dktcdn.net/100/064/369/files/lo-dien-cong-ty-vape-giau-nhat-the-gioi-smoore-4c2126a4-9bfa-44bd-8ccd-e54ba97763bd.jpg?v=1595043560191",
+      "id": 4
+    }
+  ],
+  "contact": [
+    {
+      "id": 1,
+      "name": "Phan Hữu Kiều",
+      "email": "phanhuukieu@gmail.com",
+      "message": "Hay"
+    },
+    {
+      "name": "kieu phan",
+      "email": "kieu@gmail.com",
+      "message": "hay lắm",
+      "id": 2
+    }
+  ]
+}
